@@ -14,8 +14,36 @@ main {
     text-align: center;
 }
 
+h1 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
 .link p {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
+}
+
+.video {
+    justify-content: center;
+}
+
+.content p {
+    font-size: 21px;
+    color: gray
+}
+
+.content img {
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: right;
+    font-size: 21px;
+    color: gray;
 }
